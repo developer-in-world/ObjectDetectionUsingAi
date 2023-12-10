@@ -22,7 +22,7 @@ There are two main methods for cloning the project:
 5. Run the following command, replacing `<URL>` with the copied HTTPS URL:
 
 ```
-git clone <URL>
+git clone <https://github.com/developer-in-world/ObjectDetectionUsingAi.git>
 ```
 
 This command will download the project files to your local machine and create a new directory for the project.
@@ -37,7 +37,7 @@ This command will download the project files to your local machine and create a 
 6. Run the following command, replacing `<URL>` with the copied SSH URL:
 
 ```
-git clone <URL>
+git clone <git@github.com:developer-in-world/ObjectDetectionUsingAi.git>
 ```
 
 This command will download the project files to your local machine and create a new directory for the project.
